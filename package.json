@@ -1,0 +1,22 @@
+{
+  "name": "cs-public-wiki",
+  "description": "The public wiki of Computer Science by Shanhe",
+  "version": "2.0.0",
+  "license": "CC BY-SA 4.0",
+  "type": "module",
+  "scripts": {
+    "docs:build": "vuepress-vite build src",
+    "docs:clean-dev": "vuepress-vite dev src --clean-cache",
+    "docs:dev": "vuepress-vite dev src",
+    "docs:update-package": "pnpm dlx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.15",
+    "vue": "^3.4.38",
+    "vuepress": "2.0.0-rc.15",
+    "vuepress-theme-hope": "2.0.0-rc.52"
+  },
+  "dependencies": {
+    "gfm": "^0.0.1"
+  }
+}
