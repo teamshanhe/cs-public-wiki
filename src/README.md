@@ -32,8 +32,8 @@ highlights:
 
       - title: 为学生和计算机工作者提供的计算机科学百科
         icon: book
-        details: 用样式装饰 Markdown 内容
-        link: /contents/common/
+        details: 进入 Wiki
+        link: /contents/specialized/
 
   - header: 开源、共享、自由编辑
     description: 我们基于 CC BY-SA 4.0 协议开源，您可以在此协议下自由的修改、引用和转载本百科的内容。
