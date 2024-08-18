@@ -91,7 +91,8 @@ export default hopeTheme({
       tasklist: true,
       vPre: true,
       mathjax: true,
-      gfm: true
+      gfm: true,
+      alert: true
     },
   },
 });
