@@ -3,6 +3,7 @@
 title:  如何贡献此百科的内容
 icon:   info
 author: EDGW_
+order:  1
 ---
 
 我们欢迎您对本百科进行修改和完善！
@@ -11,7 +12,7 @@ author: EDGW_
 
 ## 本百科如何运作
 
-本百科是使用[VuePress Theme Hope](https://theme-hope.vuejs.press) 生成的静态网页，按照[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)协议开源，本百科的源码托管在本百科的[Github 仓库](https://github.com/teamshanhe/cs-public-wiki)。
+本百科是使用 [VuePress Theme Hope](https://theme-hope.vuejs.press) 生成的静态网页，按照 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) 协议开源，本百科的源码托管在本百科的 [Github 仓库](https://github.com/teamshanhe/cs-public-wiki)。
 
 ### 通过提交 Pull Requests 修改本百科的内容
 
@@ -26,3 +27,7 @@ author: EDGW_
 您需要是本仓库的开发人员或管理者，或被开发人员或管理者授予相应的权限，可以直接管理本仓库的内容。
 
 您可以直接对本仓库提交 Commit，但是请确保您提交的内容正式、规范且无误，您的每次提交应该经过郑重考虑而不是仅仅是一次随意的行为。
+
+## 提交至本百科的内容规范
+
+您提交至本百科的内容应该遵守[内容规范](./specifications)。内容规范同时也为你提供了编辑上的指导。
