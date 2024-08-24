@@ -41,7 +41,7 @@ jobs:
         env:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |-
-          pnpm run -r build
+          pnpm run build
           > ./dist/.nojekyll
 
       - name: 复制部署文件
