@@ -35,7 +35,7 @@ jobs:
       - name: 安装依赖
         run: |
           corepack enable
-          pnpm install
+          pnpm -r install
 
       - name: 构建文档
         env:
