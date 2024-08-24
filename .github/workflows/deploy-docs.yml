@@ -47,7 +47,7 @@ jobs:
 
       - name: 复制部署文件
         run: |-
-          cp -r ./wiki/src/.vuepress/dist ./dist
+          cp -r ./wiki/src/.vuepress/dist/* ./dist/
 
       - name: 部署文档
         uses: JamesIves/github-pages-deploy-action@v4
