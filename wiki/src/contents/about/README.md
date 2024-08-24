@@ -7,4 +7,4 @@ order:  3
 index:  false
 ---
 
-<Catalog />
+你可以在左边的侧边栏中找到你感兴趣的内容。

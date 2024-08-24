@@ -1,0 +1,14 @@
+{
+  "name": "cs-public-wiki-root",
+  "private": true,
+  "description": "Computer Science Public Wiki of Shanhe University.",
+  "type": "module",
+  "workspaces": [
+    "wiki"
+  ],
+  "scripts": {
+    "build": "pnpm -r run docs:build",
+    "clean-dev": "pnpm -r run docs:clean-dev",
+    "dev": "pnpm -r run docs:dev"
+  }
+}
